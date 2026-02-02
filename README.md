@@ -4,7 +4,7 @@
   
 </div>
 
-<p align="center">
+<p>
 
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -32,13 +32,13 @@
   
 </p>
 
-<p align="center">
+<p>
 
   <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leosantos2003&show_icons=true&theme=radical" />
   
 </p>
 
-<p align="center">
+<p>
 
   <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=leosantos2003&theme=radical" />
   
