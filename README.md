@@ -25,8 +25,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <p align="center">
-  
-  ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=leosantos2003&show_icons=true&theme=radical)
-  ![Most used languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leosantos2003&layout=compact&theme=radical)
+
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leosantos2003&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leosantos2003&layout=compact&theme=radical" />
 
 </p>
