@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   
   # Leonardo Santos
   
@@ -61,11 +61,5 @@
 <p>
 
   <img height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=leosantos2003&theme=radical" />
-  
-</p>
-
-<p align="center">
-
-  <img height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leosantos2003&layout=compact&theme=radical" />
   
 </p>
