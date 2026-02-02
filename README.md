@@ -1,8 +1,8 @@
 <div>
   
-  # Leonardo Santos <a href="https://www.linkedin.com/in/leorsantos2003" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  # Leonardo Santos
 
-  ### Computer Engineer student at UFRGS. I seek to specialize in both hardware and software.
+  ### <a href="https://www.linkedin.com/in/leorsantos2003" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> Computer Engineer student at UFRGS. I seek to specialize in both hardware and software.
   
 </div>
 
