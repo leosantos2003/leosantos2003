@@ -6,7 +6,7 @@
   
 </div>
 
-## Technologies
+## ⚙ Technologies
 
 <p>
 
