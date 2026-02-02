@@ -1,10 +1,8 @@
-<p align="center">
-
+<div align="center">
   
   # Leonardo Santos
-
-
-</p>
+  
+</div>
 
 <p align="center">
 
