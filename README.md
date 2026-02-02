@@ -36,12 +36,6 @@
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leosantos2003&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leosantos2003&layout=compact&theme=radical" />
-  
-</p>
-
-<p align="center">
-
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leosantos2003&theme=radical" />
-  <img height="180em" src="https://metrics.lecoq.io/leosantos2003?base=header,activity,community,repositories,metadata" />
   
 </p>
