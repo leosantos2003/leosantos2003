@@ -36,6 +36,7 @@
 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=leosantos2003&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=leosantos2003&layout=compact&theme=radical" />
-  <img height="180em" src="https://metrics.lecoq.io/leosantos2003?base=header,activity,community,repositories,metadata" />
-
+  
 </p>
+
+![Metrics](https://metrics.lecoq.io/leosantos2003?base=header,activity,community,repositories,metadata)
