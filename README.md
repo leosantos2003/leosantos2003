@@ -39,4 +39,9 @@
   
 </p>
 
-![Metrics](https://metrics.lecoq.io/leosantos2003?base=header,activity,community,repositories,metadata)
+<p align="center">
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leosantos2003&theme=radical" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=leosantos2003&theme=radical" />
+  
+</p>
