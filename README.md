@@ -4,7 +4,7 @@
 
   ### <a href="https://www.linkedin.com/in/leorsantos2003" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-  Computer Engineer student at UFRGS. I seek to specialize in both hardware and software.
+  Computer Engineer student at [UFRGS](https://en.wikipedia.org/wiki/Federal_University_of_Rio_Grande_do_Sul). I seek to specialize in both hardware and software.
 
   Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
   
