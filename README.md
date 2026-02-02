@@ -2,7 +2,7 @@
   
   # Leonardo Santos
 
-  ### Computer Engineer student at UFRGS. I seek to specialize in both hardware and software.
+  #### Computer Engineer student at UFRGS. I seek to specialize in both hardware and software.
   
 </div>
 
