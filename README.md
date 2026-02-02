@@ -2,7 +2,7 @@
 
 Computer Engineer student at UFRGS. I seek to specialize in both hardware and software.
 
-### 🧰 Languages and Tools
+### 🛠 Languages and Tools
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
