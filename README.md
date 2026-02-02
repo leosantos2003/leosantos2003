@@ -7,6 +7,8 @@
   Computer Engineer student at [UFRGS](https://en.wikipedia.org/wiki/Federal_University_of_Rio_Grande_do_Sul). I seek to specialize in both hardware and software.
 
   Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+  Since man does not live by coding alone, I also read some books (see [here](https://www.goodreads.com/user/show/178648335-leonardo-santos)) and watch some movies (see [here](https://letterboxd.com/LeonardoSantos/)).
   
 </div>
 
