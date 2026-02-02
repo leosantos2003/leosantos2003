@@ -27,5 +27,3 @@ Computer Engineer student at UFRGS. I seek to specialize in both hardware and so
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Pygame](https://img.shields.io/badge/pygame-%23fecc00.svg?style=for-the-badge&logo=python&logoColor=black)
-![Raylib](https://img.shields.io/badge/raylib-%23000000.svg?style=for-the-badge&logo=raylib&logoColor=white)
