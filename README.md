@@ -1,8 +1,12 @@
 <div>
   
   # Leonardo Santos
+
+  Computer Engineer student at UFRGS.
   
 </div>
+
+## Technologies
 
 <p>
 
@@ -51,6 +55,8 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   
 </p>
+
+## Stats
 
 <p>
 
