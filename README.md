@@ -42,6 +42,6 @@
 <p align="center">
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leosantos2003&theme=radical" />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=leosantos2003&theme=radical" />
+  <img height="180em" src="https://metrics.lecoq.io/leosantos2003?base=header&achievements=1&achievements.display=compact&achievements.threshold=B" />
   
 </p>
